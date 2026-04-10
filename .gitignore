@@ -1,0 +1,16 @@
+# macOS
+.DS_Store
+
+# MATLAB
+*.asv
+*.m~
+*.mlx.autosave
+
+# Data and outputs
+03_Output/
+tmp/
+temp/
+
+# IDE
+.vscode/
+
