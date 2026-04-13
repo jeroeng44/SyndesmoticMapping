@@ -3,8 +3,8 @@
 `SyndesmoticMapping` is a MATLAB repository for dynamic tracking of anterior tibiofibular distance during external rotation loading in a cadaveric syndesmotic injury model.
 
 <p align="center">
-  <img src="04_visualisation/TibFibMotion.gif" alt="TibFibMotion" width="49%" />
-  <img src="04_visualisation/TibFibMotion_v2.gif" alt="TibFibMotion v2" width="49%" />
+  <img src="04_visualisation/TibFibMotion_v2.gif" alt="TibFibMotion" width="49%" />
+  <img src="04_visualisation/TibFibMotion_anteriolateral_cropped.gif" alt="TibFibMotion v2" width="49%" />
 </p>
 
 The current repository contains:
